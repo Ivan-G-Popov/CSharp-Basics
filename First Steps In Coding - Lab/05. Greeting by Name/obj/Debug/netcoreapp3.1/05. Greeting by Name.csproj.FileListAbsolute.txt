@@ -1,0 +1,12 @@
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.exe
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.deps.json
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.json
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.runtimeconfig.dev.json
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.dll
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\bin\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfoInputs.cache
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.AssemblyInfo.cs
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.csproj.CoreCompileInputs.cache
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.dll
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.pdb
+D:\C#\CSharp-Basics\First Steps In Coding - Lab\05. Greeting by Name\obj\Debug\netcoreapp3.1\05. Greeting by Name.genruntimeconfig.cache
